@@ -2,7 +2,7 @@
 <img src="https://github.com/Guilherme-Maciel/readme_images/blob/master/minecraftQuiz/icon.png" height="75px"><br>
 MINECRAFT QUIZ
 </h1>
-<div>
+<div align="center">
   <img src="https://github.com/Guilherme-Maciel/readme_images/blob/master/minecraftQuiz/home.PNG" height="180px">
   <img src="https://github.com/Guilherme-Maciel/readme_images/blob/master/minecraftQuiz/craft2.PNG" height="180px">
   <img src="https://github.com/Guilherme-Maciel/readme_images/blob/master/minecraftQuiz/craft3.PNG" height="180px">
